@@ -6,7 +6,7 @@ ADMIN_ID = 7642515423  # <-- o'zing Telegram ID yoz
 
 movies = {}
 
-AD = "📢 Kanalga obuna bo‘ling: @kanal_nomi"
+AD = "📢 Kanalga obuna bo‘ling: "@CineMax1bot"
 
 keyboard = [
     ["🎬 Kino qidirish", "➕ Kino qo‘shish"],
