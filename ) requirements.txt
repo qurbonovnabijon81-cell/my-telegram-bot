@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "8679650778:AAH7QNhpLAiemZFSfDgZny08ATe5ESEeXEQ"
+TOKEN = "AAH7QNhpLAiemZFSfDgZny08ATe5ESEeXEQ"
 ADMIN_ID = 7642515423  # <-- o'zing Telegram ID yoz
 
 movies = {}
